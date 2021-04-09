@@ -1,2 +1,3 @@
 # googleclone
-for practice
+For practice
+Zuri Training
